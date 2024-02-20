@@ -1,0 +1,1 @@
+select * from dev.inventory_management.im_sales_office_plant_mapping
